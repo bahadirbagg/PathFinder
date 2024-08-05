@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# PathFinder
+
+PathFinder is a job search platform that helps users find their dream jobs. This project is built using React, Tailwind CSS, and Axios.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project running on your local machine for development and testing purposes.
+
+### Installation
+
+Clone the repository:
+   git clone https://github.com/bahadirbagg/PathFinder.git
+>>>>>>> origin/main
